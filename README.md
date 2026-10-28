@@ -1,6 +1,6 @@
 # ScreenLingo
 
-App Android dịch chữ trên màn hình theo chu kỳ, phát triển từ workspace trống và tham khảo ba XAPK trong `ref`. Kotlin, Android Views, MediaProjection, Google ML Kit. Giao diện tiếng Việt, mặc định Anh → Việt.
+App Android dịch chữ trên màn hình theo chu kỳ, Kotlin, Android Views, MediaProjection, Google ML Kit. Giao diện tiếng Việt, mặc định Anh → Việt.
 
 ## Chạy ứng dụng
 
